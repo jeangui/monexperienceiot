@@ -3,3 +3,7 @@
 It was a **bold** and *italic* night!
 
 Suddenly, a shot rang out!
+
+## Section Title
+
+I'm a lowly section.
