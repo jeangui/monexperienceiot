@@ -1,1 +1,2 @@
-chapter1.txt
+Chapter1.txt
+Chapter2.txt
